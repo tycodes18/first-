@@ -1,0 +1,277 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Show_Title,Times New Roman,36,&H00000000,&H000000FF,&H0090D3CB,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,0010,0010,0018,1
+Style: Ep_Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H3C000000,-1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.53,0:00:15.05,Show_Title,Screen,0000,0000,0000,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&\t(\fs35,0,4520)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&\t(\fs15,0,4520)}Incidente de Shibuya
+Dialogue: 0,0:01:44.42,0:01:45.88,Main,Tsukumo,0000,0000,0000,,Você se lembra...
+Dialogue: 0,0:01:47.57,0:01:50.71,Main,Tsukumo,0000,0000,0000,,...de como livrar o mundo \Ndos espíritos amaldiçoados?
+Dialogue: 0,0:01:53.62,0:01:56.20,Main,Tsukumo,0000,0000,0000,,Independente do método aplicado,
+Dialogue: 0,0:01:56.20,0:02:00.12,Main,Tsukumo,0000,0000,0000,,ele ainda vai fazer a humanidade\N avançar ao seu estágio seguinte...
+Dialogue: 0,0:02:01.42,0:02:05.76,Italics,Tsukumo,0000,0000,0000,,Agora preciso ganhar tempo\N para que Larue possa agir.
+Dialogue: 0,0:02:07.59,0:02:09.93,Main,Tsukumo,0000,0000,0000,,O próximo estágio da humanidade
+Dialogue: 0,0:02:09.93,0:02:13.15,Main,Tsukumo,0000,0000,0000,,é se libertar da energia amaldiçoada.
+Dialogue: 0,0:02:15.09,0:02:18.12,Main,Geto,0000,0000,0000,,Não.\N É otimizar a energia amaldiçoada.
+Dialogue: 0,0:02:23.50,0:02:26.41,Main,Yuji,0000,0000,0000,,Olha, eu não saquei nenhum dos dois.
+Dialogue: 0,0:02:26.80,0:02:32.92,Main,Geto,0000,0000,0000,,Achei que você tivesse desistido do seu plano\N 12 anos atrás, quando Zen'in Toji morreu.
+Dialogue: 0,0:02:32.92,0:02:35.92,Main,Tsukumo,0000,0000,0000,,Eu estava falando com o Getou-kun, viu?
+Dialogue: 0,0:02:36.97,0:02:38.67,Main,Tsukumo,0000,0000,0000,,Bom, que seja.
+Dialogue: 0,0:02:39.51,0:02:41.66,Main,Tsukumo,0000,0000,0000,,Eu voltei à minha ideia original.
+Dialogue: 0,0:02:41.66,0:02:45.32,Main,Tsukumo,0000,0000,0000,,Além disso, esse seu plano\N tem um buraco enorme...
+Dialogue: 0,0:02:45.68,0:02:51.31,Main,Tsukumo,0000,0000,0000,,Comparado ao Japão, poucos feiticeiros e \Nespíritos amaldiçoados surgem em outros países.
+Dialogue: 0,0:02:52.19,0:02:57.43,Main,Tsukumo,0000,0000,0000,,Então, as barreiras de Tengen deveriam \Nser indispensáveis para essa otimização.
+Dialogue: 0,0:02:58.50,0:03:02.47,Main,Tsukumo,0000,0000,0000,,Usar Tengen para otimizar \Nenergia amaldiçoada significaria
+Dialogue: 0,0:03:02.47,0:03:05.92,Main,Tsukumo,0000,0000,0000,,que apenas os humanos \Ndaqui se tornariam feiticeiros.
+Dialogue: 0,0:03:06.84,0:03:11.33,Main,Tsukumo,0000,0000,0000,,Ou seja, o Japão teria praticamente \No monopólio da energia amaldiçoada.
+Dialogue: 0,0:03:12.10,0:03:16.00,Main,Tsukumo,0000,0000,0000,,As outras nações, especialmente {\i1}aquele{\i0}\N superpoder, não ficariam só olhando.
+Dialogue: 0,0:03:17.11,0:03:19.76,Main,Tsukumo,0000,0000,0000,,Humanos de carne e osso se\N tornariam fonte de energia...
+Dialogue: 0,0:03:19.76,0:03:24.01,Main,Tsukumo,0000,0000,0000,,É fácil de imaginar que tipo\N de desgraça isso traria.
+Dialogue: 0,0:03:26.35,0:03:30.52,Main,Tsukumo,0000,0000,0000,,Este é um mundo muito \Ndistante do ideal que eu busco.
+Dialogue: 0,0:03:32.59,0:03:34.14,Main,Geto,0000,0000,0000,,E daí?
+Dialogue: 0,0:03:34.83,0:03:37.40,Main,Geto,0000,0000,0000,,Para começo de conversa,\N nossos objetivos são diferentes.
+Dialogue: 0,0:03:37.82,0:03:40.33,Main,Geto,0000,0000,0000,,Eu não desejo um mundo livre\N de espíritos amaldiçoados
+Dialogue: 0,0:03:40.33,0:03:43.16,Main,Geto,0000,0000,0000,,e nem uma paz idealizada.
+Dialogue: 0,0:03:43.38,0:03:46.81,Main,Geto,0000,0000,0000,,Não feiticeiros, feiticeiros,\N espíritos amaldiçoados...
+Dialogue: 0,0:03:46.81,0:03:49.66,Main,Geto,0000,0000,0000,,Todos são possibilidades
+Dialogue: 0,0:03:49.66,0:03:52.54,Main,Geto,0000,0000,0000,,de formato para a energia \Namaldiçoada que é a humanidade.
+Dialogue: 0,0:03:54.28,0:03:58.39,Main,Geto,0000,0000,0000,,Mas eu sei que o limite ainda não é esse.
+Dialogue: 0,0:03:58.94,0:04:01.17,Main,Geto,0000,0000,0000,,Eu tentei dar origem
+Dialogue: 0,0:04:01.17,0:04:03.94,Main,Geto,0000,0000,0000,,a outras possibilidades para\N a humanidade eu mesmo.
+Dialogue: 0,0:04:07.93,0:04:10.54,Main,Geto,0000,0000,0000,,Apesar de não ter dado certo.
+Dialogue: 0,0:04:10.54,0:04:12.42,Main,Geto,0000,0000,0000,,Tudo o que surgiu de mim
+Dialogue: 0,0:04:12.66,0:04:15.34,Main,Geto,0000,0000,0000,,era limitado pelas muralhas\N do meu próprio potencial.
+Dialogue: 0,0:04:15.78,0:04:21.11,Main,Geto,0000,0000,0000,,A resposta sempre esteve brilhando,\N sombria, em meio ao caos.
+Dialogue: 0,0:04:21.80,0:04:23.20,Main,Geto,0000,0000,0000,,Você compreende?
+Dialogue: 0,0:04:23.20,0:04:25.30,Main,Geto,0000,0000,0000,,O que eu deveria ter criado
+Dialogue: 0,0:04:25.30,0:04:28.41,Main,Geto,0000,0000,0000,,era um caos que fosse para\N além do meu controle.
+Dialogue: 0,0:04:28.84,0:04:32.41,Main,Geto,0000,0000,0000,,Já terminei de extrair o Encantamento.
+Dialogue: 0,0:04:34.55,0:04:36.68,Main,Tsukumo,0000,0000,0000,,Tinha um espírito amaldiçoado\N chamado Mahito, não tinha?!
+Dialogue: 0,0:04:36.68,0:04:39.26,Main,Tsukumo,0000,0000,0000,,O com o Encantamento \Nque interfere com almas!
+Dialogue: 0,0:04:39.26,0:04:41.05,Main,Yuji,0000,0000,0000,,O cara aí absorveu agora há pouco.
+Dialogue: 0,0:04:41.05,0:04:42.34,Main,Tsukumo,0000,0000,0000,,Sério?!
+Dialogue: 0,0:04:44.93,0:04:46.85,Main,Geto,0000,0000,0000,,Transfiguração Inerte...
+Dialogue: 0,0:05:08.61,0:05:11.28,Italics,Tsukumo,0000,0000,0000,,A barreira de Tengen?
+Dialogue: 0,0:05:11.59,0:05:12.90,Italics,Tsukumo,0000,0000,0000,,Não, isso é...
+Dialogue: 0,0:05:12.90,0:05:15.33,Main,Tsukumo,0000,0000,0000,,Um feitiço que foi ativado remotamente?!
+Dialogue: 0,0:05:15.33,0:05:18.92,Main,Geto,0000,0000,0000,,Preciso lhe agradecer, Yuji Itadori.
+Dialogue: 0,0:05:18.92,0:05:23.42,Main,Geto,0000,0000,0000,,O domínio que um espírito amaldiçoado\N tem de seu feitiço deixa de avançar
+Dialogue: 0,0:05:23.42,0:05:26.80,Main,Geto,0000,0000,0000,,a partir do momento em que é absorvido \Npela Manipulação de Espírito Amaldiçoado.
+Dialogue: 0,0:05:27.10,0:05:30.30,Main,Geto,0000,0000,0000,,O Mahito amadureceu muito\N na luta contra você...
+Dialogue: 0,0:05:30.86,0:05:35.76,Main,Geto,0000,0000,0000,,Para ser sincero, eu também \Nqueria ter o Jogo. Mas tudo bem.
+Dialogue: 0,0:05:36.42,0:05:38.14,Main,Tsukumo,0000,0000,0000,,O que você fez?
+Dialogue: 0,0:05:38.42,0:05:41.33,Main,Geto,0000,0000,0000,,Ativei a Transfiguração\N Inerte remotamente
+Dialogue: 0,0:05:41.33,0:05:44.25,Main,Geto,0000,0000,0000,,em dois tipos de não feiticeiros\N que marquei de antemão.
+Dialogue: 0,0:05:51.08,0:05:56.96,Sign_Basic,Sign,0000,0000,0000,,{\move(384,220,414,220)\c&H080F0E&\3c&H3C4442&\shad0\fs16}Tsu{\3c&H3B4241&}m{\3c&H4B545A&}iki {\3c&H5E7680&}Fushiguro
+Dialogue: 0,0:06:10.06,0:06:14.06,Main,Geto,0000,0000,0000,,O primeiro é de pessoas que fiz absorverem \Nobjetos amaldiçoados, como Yuji Itadori fez,
+Dialogue: 0,0:06:14.65,0:06:18.54,Main,Geto,0000,0000,0000,,e o segundo é de pessoas como Yoshino\N Junpei, que possuem encantamentos,
+Dialogue: 0,0:06:18.54,0:06:21.56,Main,Geto,0000,0000,0000,,mas cujos cérebros foram estruturados\N como os de não feiticeiros.
+Dialogue: 0,0:06:21.56,0:06:25.32,Main,Geto,0000,0000,0000,,Agora eu reajustei os cérebros deles\N para serem como os dos feiticeiros...
+Dialogue: 0,0:06:25.83,0:06:28.45,Main,Geto,0000,0000,0000,,No primeiro caso, dei força \Npara eles serem hospedeiros,
+Dialogue: 0,0:06:28.45,0:06:32.58,Main,Geto,0000,0000,0000,,e no segundo, dei a habilidade \Nde ativarem seus encantamentos.
+Dialogue: 0,0:06:33.88,0:06:35.22,Main,Geto,0000,0000,0000,,E agora...
+Dialogue: 0,0:06:38.44,0:06:42.33,Main,Geto,0000,0000,0000,,Eu liberei o selo nesses\N objetos amaldiçoados.
+Dialogue: 0,0:06:43.05,0:06:45.54,Main,Geto,0000,0000,0000,,Alguns deles ficaram em sono profundo
+Dialogue: 0,0:06:45.54,0:06:48.36,Main,Geto,0000,0000,0000,,depois de ficarem expostos à \Nminha energia quando os marquei,
+Dialogue: 0,0:06:48.36,0:06:50.36,Main,Geto,0000,0000,0000,,mas devem acordar em breve.
+Dialogue: 0,0:06:51.70,0:06:53.66,Main,Geto,0000,0000,0000,,Então, a partir de agora,
+Dialogue: 0,0:06:53.66,0:06:57.80,Main,Geto,0000,0000,0000,,vou forçá-los a matarem uns aos outros, para que\N aprofundem o conhecimento de suas energias.
+Dialogue: 0,0:06:58.44,0:07:01.63,Main,Geto,0000,0000,0000,,Selecionei essas pessoas e objetos\N amaldiçoados cuidadosamente.
+Dialogue: 0,0:07:01.63,0:07:06.66,Main,Geto,0000,0000,0000,,Encarem como se mil Yuji Itadoris\N malignos tivessem sido soltos.
+Dialogue: 0,0:07:07.36,0:07:08.95,Main,Tsukumo,0000,0000,0000,,Mil, é?
+Dialogue: 0,0:07:08.95,0:07:10.22,Main,Tsukumo,0000,0000,0000,,Que humilde.
+Dialogue: 0,0:07:10.58,0:07:13.21,Main,Tsukumo,0000,0000,0000,,E você subestima demais\N a racionalidade humana.
+Dialogue: 0,0:07:13.71,0:07:15.35,Main,Tsukumo,0000,0000,0000,,Acha mesmo que as pessoas
+Dialogue: 0,0:07:15.35,0:07:17.96,Main,Tsukumo,0000,0000,0000,,vão sair se matando só porque\N você deu poder para elas?
+Dialogue: 0,0:07:18.30,0:07:20.84,Main,Geto,0000,0000,0000,,Há uma ordem para as coisas.
+Dialogue: 0,0:07:21.16,0:07:25.02,Main,Geto,0000,0000,0000,,Garanto que não economizei \Ncuidados nos meus preparativos.
+Dialogue: 0,0:07:25.46,0:07:27.88,Main,Geto,0000,0000,0000,,Suas perguntas estão \Ncomeçando a ficar rasas.
+Dialogue: 0,0:07:30.88,0:07:33.44,Main,Tsukumo,0000,0000,0000,,Ele está me irritando. \NVamos logo pegá-lo!
+Dialogue: 0,0:07:33.44,0:07:35.95,Main,Yuji,0000,0000,0000,,Olha, eu ainda não consigo me mexer...
+Dialogue: 0,0:07:42.10,0:07:44.61,Main,Geto,0000,0000,0000,,O que foi, Uraume?
+Dialogue: 0,0:07:44.81,0:07:47.86,Main,Uraume,0000,0000,0000,,Eu tinha regenerado o meu corpo\N com um feitiço de reversão...
+Dialogue: 0,0:07:48.24,0:07:49.42,Main,Uraume,0000,0000,0000,,Isso é...
+Dialogue: 0,0:07:49.42,0:07:50.48,Main,Uraume,0000,0000,0000,,Veneno?!
+Dialogue: 0,0:07:51.24,0:07:54.02,Main,Choso,0000,0000,0000,,O Sangue Perfurante fez meu \Nsangue se misturar com o seu.
+Dialogue: 0,0:07:54.02,0:07:55.24,Main,Choso,0000,0000,0000,,Claro que é veneno.
+Dialogue: 0,0:07:55.80,0:07:58.60,Main,Momo,0000,0000,0000,,Espere. Não tem a Mai-chan\N pra dar cobertura...
+Dialogue: 0,0:07:58.60,0:08:01.18,Main,Momo,0000,0000,0000,,Talvez ainda tenha aliados daquele lado.
+Dialogue: 0,0:08:02.50,0:08:08.00,Main,Tsukumo,0000,0000,0000,,Um aliado meu está protegendo Aoi,\N a menina do revólver, e a do terno.
+Dialogue: 0,0:08:08.00,0:08:09.38,Main,Tsukumo,0000,0000,0000,,Aqui não é lugar pra eles.
+Dialogue: 0,0:08:09.63,0:08:11.20,Main,Panda,0000,0000,0000,,Consegue se mexer?
+Dialogue: 0,0:08:11.20,0:08:12.22,Main,Kamo,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:12.22,0:08:14.73,Main,Kamo,0000,0000,0000,,Consigo ajustar a \Ntemperatura do meu corpo.
+Dialogue: 0,0:08:14.73,0:08:15.88,Main,Kamo,0000,0000,0000,,Eu estou bem.
+Dialogue: 0,0:08:17.76,0:08:20.14,Italics,Kusakabe,0000,0000,0000,,Então, pra mim, tá bom...
+Dialogue: 0,0:08:20.54,0:08:22.64,Main,Geto,0000,0000,0000,,A conversa ainda não acabou.
+Dialogue: 0,0:08:23.23,0:08:27.08,Main,Geto,0000,0000,0000,,Os objetos que distribuí são \No que sobrou dos feiticeiros
+Dialogue: 0,0:08:27.08,0:08:30.46,Main,Geto,0000,0000,0000,,com quem tenho feito pactos \Nsecretamente, desde mil anos atrás.
+Dialogue: 0,0:08:30.46,0:08:34.96,Main,Geto,0000,0000,0000,,Mas eu não fiz pactos \Napenas com feiticeiros.
+Dialogue: 0,0:08:36.22,0:08:37.39,Main,Geto,0000,0000,0000,,Só que...
+Dialogue: 0,0:08:37.39,0:08:41.79,Main,Geto,0000,0000,0000,,Esses pactos foram anulados\N quando eu obtive este corpo.
+Dialogue: 0,0:08:43.48,0:08:44.79,Main,Tsukumo,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:08:45.12,0:08:49.26,Main,Geto,0000,0000,0000,,Este é o mundo do que está por vir.
+Dialogue: 0,0:09:40.66,0:09:43.47,Main,Geto,0000,0000,0000,,Até mais ver, Yuji Itadori.
+Dialogue: 0,0:09:45.65,0:09:48.15,Main,Yuji,0000,0000,0000,,Gojou-sensei!
+Dialogue: 0,0:09:50.83,0:09:53.16,Main,Geto,0000,0000,0000,,Eu espero muito de você.
+Dialogue: 0,0:09:54.19,0:09:56.48,Main,Geto,0000,0000,0000,,Está me ouvindo, Sukuna?
+Dialogue: 0,0:09:56.81,0:09:57.98,Main,Geto,0000,0000,0000,,Vai começar de novo.
+Dialogue: 0,0:09:59.14,0:10:06.12,Main,Geto,0000,0000,0000,,A era de ouro do Jujutsu.\N O mundo de Heian!
+Dialogue: 0,0:10:25.01,0:10:28.66,Italics,Announcer,0000,0000,0000,,Descobrimos que essas imagens foram gravadas \Npela nossa equipe, que estava por acaso no local,
+Dialogue: 0,0:10:28.66,0:10:33.28,Italics,Announcer,0000,0000,0000,,investigando um outro acontecimento \Ndurante o incidente que ocorreu em Tóquio.
+Dialogue: 0,0:10:33.28,0:10:35.02,Italics,Announcer,0000,0000,0000,,Estas são as imagens.
+Dialogue: 0,0:10:36.30,0:10:40.64,Italics,Reporter,0000,0000,0000,,Ah, faz uns dez minutos \Ndesde que começou o apagão.
+Dialogue: 0,0:10:40.64,0:10:44.32,Main,Reporter,0000,0000,0000,,Já faz algum tempo, mas a \Nárea continua sem energia!
+Dialogue: 0,0:10:40.93,0:10:44.32,Italics,OldMan,0000,0000,0000,,{\an8}Rapaz, mas quanta loucura, hein?
+Dialogue: 0,0:10:44.32,0:10:45.81,Main,Granny,0000,0000,0000,,Será que não é {\i1}fake news{\i0}?
+Dialogue: 0,0:10:44.32,0:10:49.46,Italics,Reporter,0000,0000,0000,,{\an8}Ainda não conseguimos contato com a\N empresa, então não sabemos a causa,
+Dialogue: 0,0:10:45.81,0:10:48.36,Main,Oldman,0000,0000,0000,,Mas tá todo mundo falando disso...
+Dialogue: 0,0:10:48.36,0:10:52.52,Main,Granny,0000,0000,0000,,Hum, eu vou chegar tarde hoje,\N então pode jantar algo congelado.
+Dialogue: 0,0:10:49.46,0:10:53.24,Italics,Reporter,0000,0000,0000,,{\an8}e praticamente não fazemos \Nideia do que esteja acontecendo.
+Dialogue: 0,0:10:52.52,0:10:54.34,Main,Oldman,0000,0000,0000,,Tá.
+Dialogue: 0,0:10:54.59,0:10:57.42,Main,Official(Male),0000,0000,0000,,Todos os 23 distritos \Nforam quase dizimados.
+Dialogue: 0,0:10:57.42,0:10:59.29,Main,Official(Female),0000,0000,0000,,Ainda não se sabe se o \Ngabinete do Primeiro Ministro,
+Dialogue: 0,0:10:59.29,0:11:01.54,Main,Official(Female),0000,0000,0000,,incluindo o secretário-geral,\N estão em segurança.
+Dialogue: 0,0:11:01.54,0:11:03.72,Main,Official(Male),0000,0000,0000,,Ficou um vácuo político!
+Dialogue: 0,0:11:03.72,0:11:05.97,Main,Official(Male),0000,0000,0000,,Literalmente um buraco!
+Dialogue: 0,0:11:06.28,0:11:08.30,Main,Staff(Male),0000,0000,0000,,Mesmo nas estimativas mais baixas,
+Dialogue: 0,0:11:08.30,0:11:11.32,Main,Staff(Male),0000,0000,0000,,precisamos planejar a evacuação de\N pelo menos 5 milhões de cidadãos.
+Dialogue: 0,0:11:11.32,0:11:14.98,Main,Official(Female),0000,0000,0000,,Motéis, locais de acampamento,\N cidades fantasmas...
+Dialogue: 0,0:11:14.98,0:11:16.82,Main,Official(Female),0000,0000,0000,,Se tiver o mínimo de estrutura necessária,
+Dialogue: 0,0:11:16.82,0:11:19.26,Main,Official(Female),0000,0000,0000,,podem usar tudo o que der.
+Dialogue: 0,0:11:19.26,0:11:22.77,Main,Staff(Female),0000,0000,0000,,Mas como nós vamos explicar\N isso para os moradores?
+Dialogue: 0,0:11:22.77,0:11:25.58,Main,Staff(Male),0000,0000,0000,,Não adianta anunciar nada\N se nem sabemos a causa!
+Dialogue: 0,0:11:26.37,0:11:30.10,Italics,Reporter,0000,0000,0000,,Além disso, o governo continua\N sem fazer nenhum anúncio.
+Dialogue: 0,0:11:30.37,0:11:32.70,Italics,Reporter,0000,0000,0000,,Teria sido simplesmente um\N defeito numa subestação?
+Dialogue: 0,0:11:32.70,0:11:34.16,Italics,Reporter,0000,0000,0000,,Foi terrorismo?
+Dialogue: 0,0:11:34.37,0:11:38.43,Italics,Reporter,0000,0000,0000,,{\an8}Ou talvez... tenha sido um desastre\N natural, como um terremoto?
+Dialogue: 0,0:11:37.04,0:11:39.10,Main,Man,0000,0000,0000,,Tá todo mundo nas teorias da conspiração...
+Dialogue: 0,0:11:38.76,0:11:40.70,Italics,Reporter,0000,0000,0000,,{\an8}De qualquer forma,\N a causa continua indefinida
+Dialogue: 0,0:11:39.10,0:11:41.63,Main,Woman,0000,0000,0000,,Que tal você largar esse telefone\N um segundo e me ajudar?
+Dialogue: 0,0:11:40.70,0:11:43.53,Italics,Reporter,0000,0000,0000,,{\an8}e estamos sendo forçados a esperar\N enquanto se investiga a causa.
+Dialogue: 0,0:11:41.64,0:11:43.53,Main,Man,0000,0000,0000,,Tá bom...
+Dialogue: 0,0:11:43.98,0:11:46.26,Main,Official(male),0000,0000,0000,,Só conseguimos afirmar que\N estão seguras, partes de
+Dialogue: 0,0:11:46.26,0:11:52.22,Main,Official(male),0000,0000,0000,,Okutama, da cidade de Oume, de Akiruno, \Nde Hachioji, de Machida City e algumas ilhas...
+Dialogue: 0,0:11:52.22,0:11:53.98,Main,Official(male),0000,0000,0000,,No momento...
+Dialogue: 0,0:11:53.98,0:11:57.13,Main,Official(male),0000,0000,0000,,É absurdo isso de terem soltado 10\N milhões de espíritos amaldiçoados.
+Dialogue: 0,0:11:57.13,0:12:00.55,Main,Official(Female),0000,0000,0000,,Quer emitir ordens de evacuação\N para todos os distritos da cidade?!
+Dialogue: 0,0:12:00.55,0:12:02.98,Main,Official(Female),0000,0000,0000,,Depois a gente declara \Nentrada proibida nos distritos.
+Dialogue: 0,0:12:02.98,0:12:04.82,Main,Official(Female),0000,0000,0000,,Deixar a coisa inóspita de verdade.
+Dialogue: 0,0:12:05.23,0:12:07.82,Main,Official(Female),0000,0000,0000,,Mas o que vamos fazer sobre o anúncio?!
+Dialogue: 0,0:12:07.82,0:12:08.84,Main,Official(Female),0000,0000,0000,,Quem vai fazer?
+Dialogue: 0,0:12:08.84,0:12:11.80,Main,Official(Male),0000,0000,0000,,"Como" é mais importante do que "quem".
+Dialogue: 0,0:12:11.80,0:12:13.83,Main,Official(Male),0000,0000,0000,,Ainda não conseguimos \Ncontato com o vice-secretário?
+Dialogue: 0,0:12:14.59,0:12:17.42,Main,Official(Female),0000,0000,0000,,Ainda não.
+Dialogue: 0,0:12:17.42,0:12:19.84,Main,Official(Female),0000,0000,0000,,Também não recebi \Ncontato da secretária dele.
+Dialogue: 0,0:12:21.94,0:12:24.25,Main,Official(Male),0000,0000,0000,,O que a gente faz?
+Dialogue: 0,0:12:24.25,0:12:27.70,Main,Official(Male),0000,0000,0000,,Calma, calma. O pessoal\N da chefia resolve isso.
+Dialogue: 0,0:12:27.70,0:12:31.53,Main,Official(Male),0000,0000,0000,,Por enquanto, precisamos garantir\N contato com cada ministério.
+Dialogue: 0,0:12:32.04,0:12:34.54,Main,Boyfriend,0000,0000,0000,,O iene tá cada vez mais no chão!
+Dialogue: 0,0:12:34.54,0:12:36.87,Main,Girlfriend,0000,0000,0000,,Pelo menos era bom pra\N exportação. Era isso?
+Dialogue: 0,0:12:37.20,0:12:38.94,Main,Staff(Male),0000,0000,0000,,A Federação de Negócios ficou doida?
+Dialogue: 0,0:12:38.94,0:12:41.86,Main,Staff(Female),0000,0000,0000,,O lobby vai ser o menor dos problemas\N se todo mundo estiver morto.
+Dialogue: 0,0:12:42.82,0:12:45.36,Main,Official(Male),0000,0000,0000,,Movam o Primeiro Ministro para Osaka!
+Dialogue: 0,0:12:45.36,0:12:48.36,Main,Official(Male),0000,0000,0000,,Nesse ritmo, vai ter surtos de \Nespíritos amaldiçoados em todo o canto!
+Dialogue: 0,0:12:48.71,0:12:52.15,Main,Official(Male),0000,0000,0000,,A maioria dos feiticeiros já está \Ndefendendo os refugiados na cidade!
+Dialogue: 0,0:12:52.15,0:12:53.54,Main,Official(Male),0000,0000,0000,,E esse surto vai acontecer agora!
+Dialogue: 0,0:12:53.54,0:12:55.50,Main,Official(Female),0000,0000,0000,,Com um vácuo de poder nesse nível,
+Dialogue: 0,0:12:55.50,0:12:57.38,Main,Official(Female),0000,0000,0000,,talvez haja intervenções \Nmilitares de outros países.
+Dialogue: 0,0:12:57.38,0:12:59.16,Main,Official(Male),0000,0000,0000,,Sim. Hã?
+Dialogue: 0,0:12:59.16,0:13:00.38,Main,Official(Male),0000,0000,0000,,Ah, não.
+Dialogue: 0,0:13:00.38,0:13:01.26,Main,Official(Male),0000,0000,0000,,Sim.
+Dialogue: 0,0:13:02.31,0:13:03.38,Main,Official(Male),0000,0000,0000,,Compreendo.
+Dialogue: 0,0:13:06.04,0:13:08.45,Main,Official(Male),0000,0000,0000,,Vão anunciar a existência dos \Nespíritos amaldiçoados publicamente.
+Dialogue: 0,0:13:08.45,0:13:09.46,Main,Official(Male),0000,0000,0000,,Hã?!
+Dialogue: 0,0:13:09.46,0:13:11.72,Main,Official(Male),0000,0000,0000,,Vão falar dos espíritos pro público?!
+Dialogue: 0,0:13:11.72,0:13:13.06,Main,Official(Male),0000,0000,0000,,Eles estão falando sério?!
+Dialogue: 0,0:13:13.06,0:13:17.27,Main,Official(Male),0000,0000,0000,,Querem anunciar que espíritos amaldiçoados\N só aparecem em Tóquio, pelo que parece.
+Dialogue: 0,0:13:17.27,0:13:20.23,Main,Official(Male),0000,0000,0000,,Então o objetivo é direcionar pra Tóquio a energia\N amaldiçoada que está vazando da população,
+Dialogue: 0,0:13:20.23,0:13:23.40,Main,Official(Male),0000,0000,0000,,e limitar o surto de espíritos\N amaldiçoados pra lá, é?
+Dialogue: 0,0:13:23.40,0:13:27.82,Main,Official(Male),0000,0000,0000,,É por isso que recomendei Itami como local de \Nrealocação quando saiu o aeroporto de Kansai!
+Dialogue: 0,0:13:27.82,0:13:30.10,Main,Official(Male),0000,0000,0000,,Talvez seja melhor assim?
+Dialogue: 0,0:13:30.10,0:13:33.80,Main,Official(Male),0000,0000,0000,,Eles não teriam chegado nessa decisão\N se Kasumigaseki estivesse operacional.
+Dialogue: 0,0:13:36.58,0:13:39.56,Italics,Reporter,0000,0000,0000,,{\an8}Ah, voltamos com as últimas notícias.
+Dialogue: 0,0:13:39.57,0:13:42.46,Italics,Reporter,0000,0000,0000,,O apagão ainda continua,
+Dialogue: 0,0:13:42.48,0:13:44.33,Italics,Reporter,0000,0000,0000,,e ainda não temos contato com ninguém.
+Dialogue: 0,0:13:44.33,0:13:48.58,Italics,Reporter,0000,0000,0000,,Ainda não houve anúncio oficial,\N então a causa ainda é desconhecida.
+Dialogue: 0,0:13:48.58,0:13:51.84,Italics,Reporter,0000,0000,0000,,{\an8}Ainda não se sabe \Nquanto vai durar... Hum?
+Dialogue: 0,0:13:48.61,0:14:04.36,Sign_Basic,Screen,0000,0000,0000,,{\pos(360,295)\fs18\c&H444A49&\3c&HD1CED2&\shad0}Fenômeno anormal na capital?! O estrago continua se espalhando
+Dialogue: 0,0:13:57.98,0:14:00.55,Main,Cameraman,0000,0000,0000,,{\an8}Hã?! O que é aquilo?!
+Dialogue: 0,0:14:00.92,0:14:01.94,Main,Cameraman,0000,0000,0000,,{\an8}Ei!
+Dialogue: 0,0:14:06.13,0:14:08.11,Sign_Basic,Screen,0000,0000,0000,,{\fs18\c&HCCC9AF&\bord1\shad0\pos(317.61,161.05)\3c&H836A56&}Por favor, aguardem um instante
+Dialogue: 0,0:14:13.82,0:14:16.31,Main,Woman,0000,0000,0000,,Hã? O que é isso?
+Dialogue: 0,0:14:16.61,0:14:17.88,Main,Woman,0000,0000,0000,,É filme?
+Dialogue: 0,0:14:21.52,0:14:25.16,Main,ImperialDirector,0000,0000,0000,,A barreira em volta do Palácio \NImperial, erguida na Era Meiji,
+Dialogue: 0,0:14:25.16,0:14:27.81,Main,ImperialDirector,0000,0000,0000,,e a barreira diretamente acima\N dos Túmulos das Estrelas
+Dialogue: 0,0:14:27.81,0:14:30.51,Main,ImperialDirector,0000,0000,0000,,que foi o local proposto para a realocação\N de Tóquio durante o Bakumatsu,
+Dialogue: 0,0:14:30.51,0:14:33.69,Main,ImperialDirector,0000,0000,0000,,serão expandidas à força \Naté os limites da província.
+Dialogue: 0,0:15:42.29,0:15:43.91,Main,Woman,0000,0000,0000,,Venha.
+Dialogue: 0,0:15:43.91,0:15:45.65,Main,Woman,0000,0000,0000,,Venha.
+Dialogue: 0,0:15:45.65,0:15:47.76,Main,Woman,0000,0000,0000,,Aqui é perigoso.
+Dialogue: 0,0:15:57.30,0:16:00.15,Main,Woman,0000,0000,0000,,Tem banho quente.
+Dialogue: 0,0:16:05.01,0:16:07.58,Main,Woman,0000,0000,0000,,Eu também sei cantar.
+Dialogue: 0,0:16:13.53,0:16:15.40,Main,Girl,0000,0000,0000,,E a minha mãe?
+Dialogue: 0,0:16:17.80,0:16:20.42,Main,Woman,0000,0000,0000,,Sua mãe, seu pai,
+Dialogue: 0,0:16:20.42,0:16:24.83,Main,Woman,0000,0000,0000,,sua irmã mais velha, seu irmão mais novo\N e os professores estão todos aqui.
+Dialogue: 0,0:16:27.51,0:16:30.07,Main,Girl,0000,0000,0000,,Eu não tenho um irmão mais novo.
+Dialogue: 0,0:16:30.07,0:16:32.05,Main,Girl,0000,0000,0000,,E eu detesto meu professor.
+Dialogue: 0,0:16:32.05,0:16:35.99,Main,Woman,0000,0000,0000,,Eu não tenho um irmão mais novo.
+Dialogue: 0,0:16:35.99,0:16:40.47,Main,Woman,0000,0000,0000,,E eu detesto meu professor.
+Dialogue: 0,0:16:41.56,0:16:43.20,Main,Girl,0000,0000,0000,,Você tá bem?
+Dialogue: 0,0:16:43.20,0:16:44.45,Main,Girl,0000,0000,0000,,Quer uma bebida?
+Dialogue: 0,0:16:49.56,0:16:52.12,Main,Woman,0000,0000,0000,,Me dá.
+Dialogue: 0,0:17:26.98,0:17:28.07,Main,Okkotsu,0000,0000,0000,,Desculpe.
+Dialogue: 0,0:17:29.64,0:17:31.16,Main,Okkotsu,0000,0000,0000,,Assustei você?
+Dialogue: 0,0:17:33.87,0:17:35.07,Main,Okkotsu,0000,0000,0000,,Se machucou?
+Dialogue: 0,0:17:37.96,0:17:40.02,Main,Okkotsu,0000,0000,0000,,Você estava com alguém?
+Dialogue: 0,0:17:41.24,0:17:43.72,Main,Okkotsu,0000,0000,0000,,Sua mãe, ou seu pai?
+Dialogue: 0,0:17:45.08,0:17:46.36,Main,Girl,0000,0000,0000,,Não sei.
+Dialogue: 0,0:17:47.54,0:17:49.78,Main,Okkotsu,0000,0000,0000,,Só tem prédios comerciais por aqui,
+Dialogue: 0,0:17:49.78,0:17:51.67,Main,Okkotsu,0000,0000,0000,,então acho que ela não é daqui.
+Dialogue: 0,0:17:53.16,0:17:54.71,Main,Okkotsu,0000,0000,0000,,Você andou muito?
+Dialogue: 0,0:17:58.08,0:18:01.11,Main,Okkotsu,0000,0000,0000,,Sei. Você é forte, sabia?
+Dialogue: 0,0:18:08.72,0:18:10.86,Main,Okkotsu,0000,0000,0000,,Você consegue ver, é?
+Dialogue: 0,0:18:11.80,0:18:14.22,Main,Okkotsu,0000,0000,0000,,Calma, Rika-chan.
+Dialogue: 0,0:18:15.14,0:18:16.36,Main,Okkotsu,0000,0000,0000,,Não exagere.
+Dialogue: 0,0:18:18.83,0:18:21.10,Main,Tsukumo,0000,0000,0000,,Desculpe. Eu hesitei.
+Dialogue: 0,0:18:21.71,0:18:24.60,Main,Tsukumo,0000,0000,0000,,Como a situação já tinha avançado tanto,
+Dialogue: 0,0:18:24.60,0:18:27.75,Main,Tsukumo,0000,0000,0000,,pensei em ficar só observando e\N deixá-lo solto por um tempo...
+Dialogue: 0,0:18:29.04,0:18:30.42,Main,Tsukumo,0000,0000,0000,,Você já percebeu?
+Dialogue: 0,0:18:30.42,0:18:33.56,Main,Tsukumo,0000,0000,0000,,Eu não estou necessariamente\N do lado de vocês.
+Dialogue: 0,0:18:34.28,0:18:39.32,Main,Tsukumo,0000,0000,0000,,Sou apenas uma beldade humilde, que quer \Nerradicar os espíritos amaldiçoados do mundo.
+Dialogue: 0,0:18:40.61,0:18:42.87,Main,Tsukumo,0000,0000,0000,,Talvez não sirva como\N pedido de desculpas,
+Dialogue: 0,0:18:42.87,0:18:48.48,Main,Tsukumo,0000,0000,0000,,mas eu e meus aliados vamos nos responsabilizar\N por levar as crianças que estavam lá.
+Dialogue: 0,0:18:50.22,0:18:54.77,Main,Tsukumo,0000,0000,0000,,E já passou da hora de\N eu confrontar Tengen.
+Dialogue: 0,0:18:58.74,0:19:00.32,Main,Tsukumo,0000,0000,0000,,O que você vai fazer?
+Dialogue: 0,0:19:07.46,0:19:09.45,Main,Leader,0000,0000,0000,,Muito bem, Okkotsu.
+Dialogue: 0,0:19:09.45,0:19:11.64,Main,Okkotsu,0000,0000,0000,,Você não quer me agradecer,
+Dialogue: 0,0:19:11.64,0:19:13.56,Main,Okkotsu,0000,0000,0000,,então vamos direto ao ponto.
+Dialogue: 0,0:19:14.85,0:19:19.45,Main,Okkotsu,0000,0000,0000,,Agora você entende que eu\N vou obedecer vocês, não?
+Dialogue: 0,0:19:20.95,0:19:25.52,Main,Leader,0000,0000,0000,,Pode matar quantos espíritos quiser. \NAinda não prova nada.
+Dialogue: 0,0:19:26.49,0:19:30.22,Main,Okkotsu,0000,0000,0000,,Então façam um pacto,\N ou o que quer que seja.
+Dialogue: 0,0:19:30.22,0:19:33.02,Main,Okkotsu,0000,0000,0000,,Não me importa se ele é um\N dos alunos do Gojou-sensei.
+Dialogue: 0,0:19:34.36,0:19:38.67,Main,Okkotsu,0000,0000,0000,,Ele cortou um dos braços do\N Inumaki-kun em Shibuya.
+Dialogue: 0,0:19:40.12,0:19:44.36,Main,Okkotsu,0000,0000,0000,,Então eu vou matar Yuji Itadori.
+Dialogue: 0,0:19:46.41,0:19:49.91,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,210)\an8\fnTimes New Roman\bord0\shad0}Aviso do quartel-general de Jujutsu
+Dialogue: 0,0:19:49.91,0:19:57.92,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,230)\an8\fnTimes New Roman\bord0\shad0}1) Foi confirmado que Suguru Getou está vivo. \NDeclaramos, portanto, reestabelecida a sua sentença de morte.
+Dialogue: 0,0:19:57.92,0:20:08.43,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,260)\an8\fnTimes New Roman\bord0\shad0}2) Satoru Gojo foi considerado cúmplice no Incidente em Shibuya, \Ne está expulso permanentemente da sociedade Jujutsu. Além disso, \Nqualquer tentativa de desfazer seu selo será considerada crime.
+Dialogue: 0,0:20:08.43,0:20:17.94,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,280)\an8\fnTimes New Roman\bord0\shad0}3) Masamichi Yaga está sentenciado à morte por incitar Satoru Gojou e Suguru Getou, causando assim o Incidente em Shibuya.
+Dialogue: 0,0:20:17.94,0:20:25.45,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,230)\an8\fnTimes New Roman\bord0\shad0}4) A suspensão da sentença de morte de Yuji Itadori está revogada, e sua execução deve ser conduzida com mais festas.
+Dialogue: 0,0:20:25.45,0:20:32.96,Sign_Basic,Screen,0000,0000,0000,,{\pos(320,230)\an8\fnTimes New Roman\bord0\shad0} 5) O feiticeiro de nível especial Yuta Okkotsu está apontado como executor da sentença de Yuji Itadori.
+Dialogue: 0,0:22:07.01,0:22:09.75,Ep_Title,Screen,0000,0000,0000,,Episódio 47\N{\fs30\fscy150}Incidente em Shibuya - Portões fechados
+Dialogue: 0,0:22:09.78,0:22:10.00,Ep_Title,,0000,0000,0000,,{\b0\fscx80\fscy80\pos(567.52,305.88)}Continua
